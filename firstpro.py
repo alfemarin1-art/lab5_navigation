@@ -77,7 +77,7 @@ if user == "sign up":
                     print("Login successful! Welcome back.")
                     navigate_site()
                     break
-                else:
+        else:
                     print("Invalid username or password. Try again.")
             break
 
